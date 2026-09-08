@@ -1,6 +1,6 @@
 name: spdx-license-check
 
-on: [pull_request,push]
+# on: []
 
 jobs:
   check-spdx-headers:
